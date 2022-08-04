@@ -1,0 +1,7 @@
+---
+type: "git"
+uri: "https://github.com/oracle/graal.git"
+path: "truffle"
+tagMapping:
+  - pattern: 21.3.2
+    tag: vm-21.3.2
